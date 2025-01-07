@@ -1,0 +1,6 @@
+version: 1
+staticSite:
+  name: Cosmo Games
+  publishBranch: main
+  buildCommand: ''
+  rootDir: '.'
